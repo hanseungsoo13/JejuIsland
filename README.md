@@ -78,7 +78,7 @@
             - 아래의 식처럼 **각 데이터 포인트와 주위 데이터 포인트들과의 거리 계산**을 통해 값을 구한다.
             - i의 실루엣 계수
                 
-                ![9qjs](https://user-images.githubusercontent.com/75753717/146883321-0cae1c37-c369-4b1e-8a8e-3a1c60dc4252.png)
+                ![9 5](https://user-images.githubusercontent.com/75753717/146884113-f5955006-5f77-4917-8646-916d15ccf4a8.png)
                 
                 - a(i): 데이터 포인트 i가 속한 클러스터 내 데이터 포인트들과 거리의 평균
                 - b(i): 데이터 포인트 i가 속하지 않은 클러스터의 데이터 포인트들과의 거리 평균
@@ -218,7 +218,7 @@
     
     딥러닝을 이용한 예측과정은 다음과 같다.
     
-    ![20qjs](https://user-images.githubusercontent.com/75753717/146883407-5a7f5996-7c37-4f26-87e0-f7c3aeb7b563.png)
+    ![18 5](https://user-images.githubusercontent.com/75753717/146884164-8bdcee86-a2ef-43f8-b266-11771e64ca34.png)
     
     - Models
         1. **LSTM**
